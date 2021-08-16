@@ -1,0 +1,3 @@
+101 kitkat 10 5
+102 Dm 20 3
+103 Milky bar 30 2
